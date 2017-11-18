@@ -1,0 +1,22 @@
+.app {
+	display: flex;
+}
+
+.description {
+	margin-left:20px;
+	margin-right: 400px;
+	color: #7C8B88;
+}
+
+.title {
+	margin-bottom: 38px;
+	background-color: #33bebe;
+	font-size: 40px;
+	margin-right: 400px;
+	color:#fff;
+}
+
+.img {
+	max-width: 60px;
+	max-height: 60px;
+}
